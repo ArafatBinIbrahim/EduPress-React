@@ -1,20 +1,24 @@
-<<<<<<< HEAD
-# React + Vite
+# EduPress - React Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EduPress is a modern, responsive educational web application built with **React**, **React Router**, and **Bootstrap**. It features a clean UI, dynamic components, interactive student statistics, and a custom Student Login portal.
 
-Currently, two official plugins are available:
+🚀 Features
+* **Home Page**: Includes an attractive Banner, Animated Counter section, Featured Courses, Categories, and Student Feedback.
+* **Student Login Portal**: Custom-designed login page with registration number input and a sleek UI.
+* **Multi-page Navigation**: Seamless routing between Home, Courses, Blog, and Login pages using `react-router-dom`.
+* **Centralized Styling**: Clean CSS architecture utilizing a main stylesheet for better maintainability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🛠️ Tech Stack
+* **Frontend**: React.js, Vite
+* **Routing**: React Router DOM
+* **Styling**: Bootstrap, CSS3
+* **Version Control**: Git & GitHub
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# EduPress-React
->>>>>>> 602fc0df09c5a9ced92573c406593b121aa12240
+📦 Project Setup & Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ArafatBinIbrahim/EduPress-React.git](https://github.com/ArafatBinIbrahim/EduPress-React.git)
