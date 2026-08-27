@@ -1,7 +1,7 @@
 # EduPress - React Web Project
 
-EduPress is a modern, responsive educational web application built with **React**, **React Router**, and **Bootstrap**. It features a clean UI, dynamic components, interactive student statistics, and a custom Student Login portal.
-
+EduPress is a modern, responsive Learning Management System (LMS) web application.
+**Originally built as a static landing page, this project has been fully migrated and refactored into a dynamic React application** through hands-on learning and component-based architecture. Inspired by the Eduma theme design, it features interactive student statistics, multi-page routing, and a custom Student Login portal.
 🚀 Features
 * **Home Page**: Includes an attractive Banner, Animated Counter section, Featured Courses, Categories, and Student Feedback.
 * **Student Login Portal**: Custom-designed login page with registration number input and a sleek UI.
