@@ -99,7 +99,7 @@ Icons from Font Awesome
 Kazi Arafat Bin Ibrahim
 
 GitHub: ArafatBinIbrahim
-=======
+
 # EduPress - React Web Project
 
 EduPress is a modern, responsive Learning Management System (LMS) web application.
@@ -122,8 +122,8 @@ EduPress is a modern, responsive Learning Management System (LMS) web applicatio
 📦 Project Setup & Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/ArafatBinIbrahim/EduPress-React.git](https://github.com/ArafatBinIbrahim/EduPress-React.git)
+
+git clone [https://github.com/ArafatBinIbrahim/EduPress-React.git](https://github.com/ArafatBinIbrahim/EduPress-React.git)
 live link- https://arafatbinibrahim.github.io/EduPress-React/
 >>>>>>> 6f62148b532881f8cfb4996ab5fdaa4db799457e
 
