@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EduPress – Online Learning Platform (LMS Landing Page)
 
 EduPress is a modern, responsive Learning Management System (LMS) landing page built to showcase online courses across multiple categories. Inspired by the Eduma theme design, it features a clean hero section, category browsing, and featured course listings.
@@ -126,3 +126,24 @@ EduPress is a modern, responsive Learning Management System (LMS) web applicatio
    git clone [https://github.com/ArafatBinIbrahim/EduPress-React.git](https://github.com/ArafatBinIbrahim/EduPress-React.git)
 live link- https://arafatbinibrahim.github.io/EduPress-React/
 >>>>>>> 6f62148b532881f8cfb4996ab5fdaa4db799457e
+
+
+Project folder-e dhukbe (terminal-er madhshome):
+
+Bash
+cd path/to/edupress-react
+(Jodi already oi folder-er bhitor-ei thako, tahobe ei step lagbe na).
+
+Dependencies/Packages install kora:
+Jodi project-ti ei prothom run koro ba node_modules folder na thake, tahobe age package-gulo install kore nite hobe:
+
+Bash
+npm install
+(Atherwise, yarn use korle yarn install likhte paro).
+
+Development Server Chalu Kora:
+Dependencies install howar por project run korar jonno command dao:
+
+Bash
+npm run dev
+(Jodi project-ti Create React App diye toiri kora hoy, tahobe npm start likhte hobe).
