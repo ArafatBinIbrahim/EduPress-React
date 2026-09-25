@@ -1,0 +1,62 @@
+/*বাস! এটুকুই হলো ২য় ধাপের কাজ। এতে আপনার মূল style.css ফাইলটি রিঅ্যাক্ট প্রজেক্টের সাথে কানেক্ট হয়ে যাবে এবং আপনার কোনো ডিজাইন বা কোড পরিবর্তন করতে হবে না।*/
+@import './assets/css/style.css'; 
+
+
+
+/* ফিডব্যাক সেকশনের স্পেসিং ও ফুটারের সাথে ওভারল্যাপ সমস্যা দূর করার জন্য */
+.feedbacks {
+  padding-bottom: 90px !important;
+  margin-bottom: 5px;
+}
+
+/* ফিডব্যাক কার্ডের ভেতরকার মার্জিন ফিক্স */
+.feedbacks .c_single {
+  margin-bottom: 40px;
+}
+
+.login-page-bg {
+  background-color: #eef2f5 !important;
+}
+
+
+
+/* লগইন পেজের মূল ব্যাকগ্রাউন্ড ও পজিশনিং */
+.login-page-wrapper {
+  background-color: #eef2f5 !important;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0;
+}
+
+/* লগইন ফর্মের কার্ড ডিজাইন */
+.login-card-box {
+  background-color: #ffffff !important;
+  border-radius: 25px !important;
+}
+
+/* লগইন টাইটেল স্টাইল */
+.login-title {
+  color: #333333;
+  letter-spacing: 1px;
+}
+
+/* ইনপুট ফিল্ড স্টাইল */
+.login-input {
+  border-radius: 8px !important;
+  background-color: #f9f9f9 !important;
+}
+
+/* সাবমিট বাটন ডিজাইন ও শ্যাডো */
+.login-btn {
+  background-color: #e91e63 !important;
+  border-radius: 30px !important;
+  border: none !important;
+  box-shadow: 0 4px 10px rgba(233, 30, 99, 0.3) !important;
+  transition: all 0.3s ease;
+}
+
+.login-btn:hover {
+  background-color: #d81b60 !important;
+}
