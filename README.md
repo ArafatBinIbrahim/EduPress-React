@@ -3,7 +3,7 @@
 
 EduPress is a modern, responsive Learning Management System (LMS) landing page built to showcase online courses across multiple categories. Inspired by the Eduma theme design, it features a clean hero section, category browsing, and featured course listings.
 
-🌐 **Live Preview:** [[https://arafatbinibrahim.github.io/EduPress/](https://arafatbinibrahim.github.io/EduPress/)](https://arafatbinibrahim.github.io/EduPress-React/)
+🌐 **Live Preview:** https://arafatbinibrahim.github.io/EduPress-React/
 
 ---
 
