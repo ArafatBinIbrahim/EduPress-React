@@ -71,10 +71,11 @@ iframe {
     height: auto;
 }
  
-/* touch-friendly tap targets everywhere */
-a,
-button,
-.btn,
+/* touch-friendly tap targets -- but skip anything that already has its
+   own button/pill styling (class present), so we don't override
+   backgrounds/padding on things like the Login/Register button */
+a:not([class]),
+button:not([class]),
 .navbar-toggler,
 input[type="submit"],
 input[type="button"] {
